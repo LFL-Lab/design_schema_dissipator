@@ -3,7 +3,7 @@
 
 This is the documentation for the dissapator device from the Levenson-Falk Lab at USC.
 
-The "dissapator" acts as a source of on-demand loss in QED superconducting circuits. 
+The "dissapator" acts as a source of on-demand loss for fast cavity reset and cooling in QED superconducting circuits. 
 
 ## Links and Paper
 
