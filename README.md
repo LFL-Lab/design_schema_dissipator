@@ -9,7 +9,7 @@ The "dissapator" acts as a source of on-demand loss for fast cavity reset and co
 
 | Component  | Frequency (GHz) | Anharmocity (MHz) | Dispersive Shift (kHz) | Kappa (MHz) | Dissapator Coupling (MHz) | T1 (µs) | T2* (µs) |
 |------------|-----------------|-------------------|------------------------|-------------|---------------------------|---------|----------|
-| Qubit      | 3.368          | -175              | 200                    | null        | 53.9                      | 27      | 4        |
+| Qubit      | 3.368          | -175              | 200                    | ...        | 53.9                      | 27      | 4        |
 | Cavity     | 5.594          | ...              | 200                    | 0.477       | 145                       | ...    | ...     |
 | Dissapator | 4.2-15.3          | -350              | ...                   | ...        | ...                      | <0.05   | <0.1     |
 | Filter     | 8.6          | ...              | ...                   | 120         | 535                       | ...    | ...     |
